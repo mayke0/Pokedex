@@ -1,1 +1,1 @@
-#Trilha JS - Pokédex
+Trilha JS - Pokédex
